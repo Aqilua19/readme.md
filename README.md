@@ -10,7 +10,6 @@
 
 <br>
 
-![versi](https://img.shields.io/badge/versi-5.1.0-a06bff?style=for-the-badge)
 ![python](https://img.shields.io/badge/python-3.10%2B-00b8ff?style=for-the-badge&logo=python&logoColor=white)
 ![platform](https://img.shields.io/badge/Ubuntu%20%2F%20Debian-00ffd5?style=for-the-badge&logo=ubuntu&logoColor=black)
 ![lisensi](https://img.shields.io/badge/lisensi-MIT-6a8cff?style=for-the-badge)
